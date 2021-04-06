@@ -1,4 +1,4 @@
- <html>
+ <html lang="en">
  <h1>Planets data</h1>
  <head>
 <body>
