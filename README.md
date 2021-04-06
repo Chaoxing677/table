@@ -1,14 +1,4 @@
  <h1>Planets data</h1>
-  <form action="http://www.baidu.com" target="_gray">
-    <input type="text" name="word" size="15px" color="gray" style="border-radius: 5px" placeholder="Search quary">
-    <input type="submit" size="12px" style="border-radius: 5px" value="Go！">
-  </form>
-
-  <style>
-    html {
-      font-family: sans-serif;
-    }
-  </style>
 </head>
 <body>
 
