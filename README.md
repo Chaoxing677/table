@@ -1,7 +1,5 @@
  <h1>Planets data</h1>
-
 <body>
-
 <table>
   <colgroup>
     <col>
@@ -143,7 +141,4 @@
     <td>Declassified as a planet in 2006, but this <a href="http://www.usatoday.com/story/tech/2014/10/02/pluto-planet-solar-system/16578950/">remains controversial</a></td>
   </tr>
 </table>
-
-
 </body>
-</html>
