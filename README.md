@@ -1,5 +1,4 @@
- <!DOCTYPE html>
- <html lang="en">
+<html lang="en">
  <h1>Planets data</h1>
  <head>
 <body>
@@ -145,4 +144,3 @@
   </tr>
 </table>
 </body>
-</html>
