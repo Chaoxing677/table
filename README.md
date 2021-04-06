@@ -1,4 +1,6 @@
+ <html>
  <h1>Planets data</h1>
+ <head>
 <body>
 <table>
   <colgroup>
